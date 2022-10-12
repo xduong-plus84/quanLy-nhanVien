@@ -1,7 +1,6 @@
 // console.log("index.js")
 
 // tạo key cho data dưới local storage
-
 const WORKERLIST_LOCARLSTORAGE = "WORKLIST";
 
 var workerList = [];
